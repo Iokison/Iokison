@@ -1,7 +1,6 @@
 ## work in progress, someone teach me how to use github
-<img width="2048" height="1000" alt="top" src="https://github.com/user-attachments/assets/e73bbe41-cd77-4bf1-bde7-75a17b347e6e" />
-
-<img width="2048" height="1000" alt="bottom" src="https://github.com/user-attachments/assets/07299bd9-b485-473a-83c1-06ec8c66b6ea" />
+<img width="3499" height="1003" alt="Untitled1853_20241115220346" src="https://github.com/user-attachments/assets/1652685d-2b3d-4edd-a289-1df8a12794eb" />
+<img width="3499" height="1003" alt="Untitled1855_20241115224512" src="https://github.com/user-attachments/assets/85f44991-f263-4b1a-a401-8f9f3948227c" />
 
 <!--
 **Iokison/Iokison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
