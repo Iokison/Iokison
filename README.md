@@ -1,4 +1,7 @@
-## Hi there 👋
+## work in progress, someone teach me how to use github
+<img width="2048" height="1000" alt="Untitled11_20261023165555" src="https://github.com/user-attachments/assets/6c59dd27-5eb2-43bf-9da5-645d40ea6176" />
+
+<img width="2048" height="1000" alt="Untitled11_20261023165539" src="https://github.com/user-attachments/assets/260d58e6-34ae-4b30-8e01-4f435a6c3093" />
 
 <!--
 **Iokison/Iokison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
